@@ -169,6 +169,8 @@ env.bak/
 venv.bak/
 pythonenv*
 
+myenv/
+
 /node_modules
 
 # Spyder project settings
